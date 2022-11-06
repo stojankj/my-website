@@ -1,0 +1,86 @@
+body{
+  background-color: #cafaca;
+}
+
+.header {
+  font-weight: bold;
+  font-style: italic;
+  text-align: center;
+  padding: 20px;
+}
+
+.slika {
+  float: left;
+  margin-left: 40px;
+  border-radius: 15px;
+  padding: 5px;
+  width: 150px;
+}
+
+.disc {
+  margin-left:250px;
+}
+
+.name {
+  margin-top: 40px;
+  margin-left:250px;
+}
+
+.book {
+  margin-left: 50px;
+  text-decoration: none;
+}
+
+.book:link {
+  color: rgb(5, 182, 11);
+  }
+.book:visited {
+  color: gray;
+  }
+.book:hover { 
+      color: #ff0000;
+  }
+ .book:active {
+      color: #00f;
+  }
+
+  .findme {
+  font-weight: bold;
+  text-align: left;
+  margin-top:50px;
+  margin-left: 75px;
+  }
+
+  .social {
+    margin-left: 50px;
+  }
+
+  .fb {
+  height: 30px;
+  width: 40px; 
+  }
+
+  .insta {
+    
+    height: 30px;
+    width: 40px;
+    }
+
+    .twitter {
+    
+      height: 30px;
+      width: 40px;
+      }
+
+.movies {
+  margin-left: 5px;
+  width: 180px;
+  border-radius: 50px;
+  padding: 30px;
+}
+
+.ynwa {
+height: 400px;
+width: 700px;
+margin-left: 150px;
+}
